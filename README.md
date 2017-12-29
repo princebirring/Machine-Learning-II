@@ -1,4 +1,4 @@
-# Machine Learning II: 
+# Machine Learning II: Deep Learning
 
 Instructor: Dr. Amir Jafari | GitHub: https://github.com/amir-jafari
 
