@@ -30,5 +30,5 @@ a description of dropout.) Does dropout improve the testing error?
 11.  Experiment with different numbers of layers and different numbers of kernels. Maintain the total number of weights and biases in the network, while increasing the number oflayers in the network.  Describe how the performance changes
 as the number of layers increases – both in terms of training time and performance.
 12.  Try one other training function from the list on this page: http://caffe.berkeleyvision.org/tutorial/solver.html. Compare the performance with gradient descent.
-13. Note: Write a report and submit one pdf file with all of your finding, results, tables, codes and etc.  Also, you need to provide the code if you modify
+13. Write a report and submit one pdf file with all of your finding, results, tables, codes and etc.  Also, you need to provide the code if you modify
 it (any code or txt file or prototxtfile). Therefore, you nee
