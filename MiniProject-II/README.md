@@ -10,13 +10,12 @@ and any other experiments you run, include the results into one PDF file, and up
 and put them in the directory where you want to run your programs.
 2.  Run the following commands on terminal in the your working path directory:
                 
-               1.  chmod   777 create_mnsit.sh   
-               2.  chmod   777  get_mnsit.sh
-               3.  . /getmnist.sh
+                 chmod   777 create_mnsit.sh   
+                 chmod   777  get_mnsit.sh
+                 . /getmnist.sh
                
-3.  Open up the create_mnist.sh and change the path to of EXAMPLE and DATA to the directory that you are working with. Then run the following c
-ommands.
-               1. ./create_mnist.sh
+3.  Open up the create_mnist.sh and change the path to of EXAMPLE and DATA to the directory that you are working with. Then run the following commands.<br/>
+                     ./create_mnist.sh
 
 4.  By this time you should have the train and test lmdb files of the mnist data set.
 5.  Download lenet_solver.prototxt, lenet_train_test.prototxt from GitHub and put them in the directory.  Change the path of net in
