@@ -1,4 +1,4 @@
-# Machine Learning II: Deep Learning
+# DATS 6203: Machine Learning II: Deep Learning
 
 Instructor: Dr. Amir Jafari | GitHub: https://github.com/amir-jafari
 
